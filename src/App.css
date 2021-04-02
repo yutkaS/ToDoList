@@ -26,5 +26,5 @@ body{
 }
 
 .removed{
-  color: #490909;
+  text-decoration: line-through;
 }
